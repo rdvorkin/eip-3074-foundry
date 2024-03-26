@@ -7,6 +7,8 @@ prague = true
 remappings = [
   "forge-std/=lib/forge-std/src/",
   "solady/=lib/solady/src/",
+  "@account-abstraction/contracts/=lib/account-abstraction/contracts/",
+  "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/"
 ]
 solc = "bin/solc"
 
